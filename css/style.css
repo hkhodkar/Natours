@@ -884,7 +884,7 @@ body {
   margin-top: -20vh; }
   @media only screen and (max-width: 56.25em) {
     .section-about {
-      padding: 20rem 0; } }
+      padding: 30rem 0; } }
 
 .section-features {
   padding: 20rem 0;
@@ -908,7 +908,7 @@ body {
 
 .section-stories {
   position: relative;
-  padding: 15rem 0; }
+  padding: 10rem 0; }
   @media only screen and (max-width: 56.25em) {
     .section-stories {
       padding: 10rem 0; } }
